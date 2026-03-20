@@ -26,4 +26,4 @@
 
 ### 📫 Let's Connect!
 * **Email:** huypham200104@gmail.com
-* **LinkedIn:** [linkedin.com/in/huypham200104](https://linkedin.com/in/huypham200104)
+* **LinkedIn:** [linkedin.com/in/pham-ngoc-huy]([https://linkedin.com/in/huypham200104](https://www.linkedin.com/in/ph%E1%BA%A1m-ng%E1%BB%8Dc-huy-29689b378/))
