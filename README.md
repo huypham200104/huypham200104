@@ -25,5 +25,5 @@
 ---
 
 ### 📫 Let's Connect!
-* **Email:** [huypham200104]@gmail.com
+* **Email:** huypham200104@gmail.com
 * **LinkedIn:** [linkedin.com/in/huypham200104](https://linkedin.com/in/huypham200104)
