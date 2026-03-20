@@ -1,4 +1,4 @@
-# Hi there, I'm Huy Pham 👋
+# Hi there, I'm Phạm Ngọc Huy 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Flutter+Developer;Clean+Architecture+Enthusiast" alt="Typing SVG" />
@@ -25,5 +25,5 @@
 ---
 
 ### 📫 Let's Connect!
-* **Email:** huypham200104@gmail.com
-* **LinkedIn:** [linkedin.com/in/pham-ngoc-huy]([https://linkedin.com/in/huypham200104](https://www.linkedin.com/in/ph%E1%BA%A1m-ng%E1%BB%8Dc-huy-29689b378/))
+* **Email:** [ngochuy200104@gmail.com](mailto:ngochuy200104@gmail.com)
+* **LinkedIn:** [linkedin.com/in/phạm-ngọc-huy](https://www.linkedin.com/in/ph%E1%BA%A1m-ng%E1%BB%8Dc-huy-29689b378/)
